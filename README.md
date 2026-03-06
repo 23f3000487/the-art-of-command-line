@@ -43,7 +43,7 @@ Scope:
 Notes:
 
 - To keep this to one page, content is implicitly included by reference. You're smart enough to look up more detail elsewhere once you know the idea or command to Google. Use `apt`, `yum`, `dnf`, `pacman`, `pip` or `brew` (as appropriate) to install new programs.
-- Use [Explainshell](http://explainshell.com/) to get a helpful breakdown of what commands, options, pipes etc. do.
+- Use [Explainshell](https://explainshell.com/) to get a helpful breakdown of what commands, options, pipes etc. do.
 
 
 ## Basics
